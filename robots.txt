@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://unatemain95.github.io/ayxofficial-com-2/sitemap.xml
